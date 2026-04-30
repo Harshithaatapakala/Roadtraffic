@@ -1,2 +1,4 @@
 *.weights
 *.data-00000-of-00001
+*.pt
+*.h5
